@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", serif;
+    font-family: "Roboto Mono", monospace;
+}
+
+body {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.saibaMais {
+    color: white;
+    background-color: rgb(34, 85, 47);
+    padding: 14px;
+    border: none;
+    margin-top: 34px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 0.5s;
+}
+
+.saibaMais:hover {
+    background-color: rgb(33, 112, 53);
+    transform: translateY(3px);
+}
+
+
+ /* lorem */ p {
+    font-size: 20px;
+    font-family: "Roboto Mono", serif;
+}
+
+.logo {
+    width: 65px;
+}
+
+.copo_grande_1 {
+    width: 475px;
+    transition: 1s;
+    transform: translateY(-300px);
+}
+
+
+.copo_grande_1:hover {
+    width: 490px;
+    transform: translateY(-270px);
+}
+
+.circulo {
+    background: rgb(34, 85, 47);
+    width: 100vw; /* Largura igual à largura da tela */
+    height: 100vh; /* Altura igual à altura da tela */
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: circle(500px at 90% 50%); /* Ajuste do clip-path para o círculo */
+    z-index: -1;
+    transition: 1s;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.botao-menu {
+    width: 60px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.botao-menu:hover {
+    transform: translateY(-25px);
+}
+
+
+.imagem {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 355px;
+}
+
+.conteudo {
+    width: 100%;
+    /* largura */
+    display: flex;
+    /* flexivel abilita outras ferramentas */
+    justify-content: space-between;
+    /* justifica o conteudo */
+    align-items: center;
+    /* alinha no centro*/
+}
+
+.textos {
+    width: 552px;
+}
+
+h2 {
+    color: rgb(39, 37, 37); /* cor do texto */
+    font-size: 70px; /* tamanho do texto*/
+    font-weight: bold; /* grossura do texto */
+}
+
+.starbucks {
+    color: rgb(34, 85, 47);
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.wallpaper {
+    width: 100%;
+    height: 100%;
+    width: 100vw; 
+    height: 100vh; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.sair {
+    color: white;
+    background-color: black;
+    padding: 14px;
+    border: none;
+    margin-top: 34px;
+    border-radius: 18px;
+    cursor: pointer;
+    font-family: "Roboto Mono", serif;
+    transition: 0.5s;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-90px);
+}
+
+.sair:hover{
+   transform: translateX(-25px);
+   background-color: rgb(44, 42, 42);
+}
+
+.ir {
+    color: white;
+    background-color: black;
+    padding: 14px;
+    border: none;
+    margin-top: 34px;
+    border-radius: 18px;
+    cursor: pointer;
+    font-family: Tahoma;
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    transform: translateY(90);
+}
+
+.ir:hover {
+    transform: translateX(-25px);
+   background-color: rgb(175, 39, 39);
+}
