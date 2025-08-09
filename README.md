@@ -28,3 +28,8 @@ Reproduzir uma landing page da Starbucks, aplicando conceitos fundamentais de fr
 
 ## 📸 Prévia do projeto
 ![Starbucks Preview](imagens/Starbucks-1.png) ![](imagens/Starbucks-2.png) ![](imagens/Starbucks-3.png)
+
+---
+
+Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
+
