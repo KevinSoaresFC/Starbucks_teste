@@ -30,5 +30,7 @@ Reproduzir uma landing page da Starbucks, aplicando conceitos fundamentais de fr
 
 ---
 
+## 👤 Autor
+
 Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
 
