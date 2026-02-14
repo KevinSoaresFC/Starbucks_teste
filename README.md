@@ -2,6 +2,8 @@
 
 Projeto desenvolvido como parte do curso *"Missão Programação do Zero"* com Rodolfo Mori, com o objetivo de criar um site completo e responsivo da Starbucks utilizando HTML, CSS e JavaScript.
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
 ---
 
 ## 📌 Sobre o projeto
