@@ -23,7 +23,6 @@ Reproduzir uma landing page da Starbucks, aplicando conceitos fundamentais de fr
 ## 🚀 Tecnologias utilizadas
 - HTML5
 - CSS3
-- JavaScript (puro)
 
 ---
 
