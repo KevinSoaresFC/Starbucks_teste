@@ -11,7 +11,7 @@ Este projeto foi uma imersão prática para entender como HTML, CSS e JavaScript
 
 - HTML: o esqueleto, responsável por estruturar todo o conteúdo.  
 - CSS: a pele e o estilo, trazendo um visual moderno, clean e responsivo.  
-- JavaScript: o cérebro, adicionando interatividade, animações e funcionalidades dinâmicas.
+
 
 ---
 
